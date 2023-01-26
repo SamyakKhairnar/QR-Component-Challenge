@@ -34,9 +34,11 @@ Frontend Mentor Challenge for Creating a QR-Code Component with Responsiveness t
 
 ### Screenshot
 
-  
+1] Web View (1440px)
+![SamyakChallengeWeb](https://user-images.githubusercontent.com/84782149/214264811-8d578d97-9dca-4db5-b133-006e0806ec8b.JPG)
 
-![](./screenshot.jpg)
+2] Mobile View (375px)
+![SamyakChallengeMobile](https://user-images.githubusercontent.com/84782149/214264816-af290e47-3e2e-4c75-924e-77cf91bf011f.JPG)
 
   
 
@@ -47,19 +49,19 @@ Frontend Mentor Challenge for Creating a QR-Code Component with Responsiveness t
 
   
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [GIT Repository](https://github.com/SamyakKhairnar/QR-Component-Challenge)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Frontend-QR-Challenge Site](https://frontend-qr-challenge.netlify.app/)
 
   
 
 ## My Process
 
-1] Created a Parent Div Container for the Card.
-2] Created a Card which will contain QR-Image, Head Tag & a Para Tag.
-3] Added Styling to the Parent Div with `Display: Flex;` & `Position: Absolute;`
-4] Added Styling to the Card Component with `Margin` & `Padding`
-5] Change the Font Style to [Outfit](https://fonts.google.com/specimen/Outfit
+**1]** Created a Parent Div Container for the Card.    
+**2]** Created a Card which will contain QR-Image, Head Tag & a Para Tag.    
+**3]** Added Styling to the Parent Div with `Display: Flex;` & `Position: Absolute;`  
+**4]** Added Styling to the Card Component with `Margin` & `Padding`  
+**5]** Change the Font Style to [Outfit](https://fonts.google.com/specimen/Outfit)  
 
   
 
